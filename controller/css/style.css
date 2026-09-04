@@ -1,0 +1,14 @@
+ul{
+list-style-type: none;
+
+}
+
+li a{
+
+    text-decoration: none;
+}
+
+
+.pantalla-completa {
+  height: 100vh; /* 100% del alto de la pantalla */
+}
